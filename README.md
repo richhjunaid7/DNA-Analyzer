@@ -8,8 +8,6 @@ The program takes a DNA sequence as input, checks if it’s valid (only A, T, G,
 - AT% and GC% content  
 - Melting temperature (calculated using Wallace rule)
 
----
-
 ## How to run
 1. Clone this repo or download the code.  
 2. Run the script with Python 3:  
